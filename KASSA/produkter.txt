@@ -1,0 +1,4 @@
+﻿300;Banan;8;Per styck
+301;Äpple;10;Per styck
+302;RedBull;25;Per stryck
+303;Bulle;15;Per styck
